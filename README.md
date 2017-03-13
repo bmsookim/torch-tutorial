@@ -19,7 +19,7 @@ See the [server instruction](SERVER.md) for server setup.
 - Install [cudnn v5.1](https://developer.nvidia.com/cudnn)
 
 # Contents
-- [Linear Regression]()
+- [Linear Regression](./01-LinearRegression/LinearRegression.ipynb)
 - [Logistic Regression]()
 - [Feedforward Neural Network]()
 - [Convolutional Neural Network]()
