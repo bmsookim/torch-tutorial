@@ -33,4 +33,10 @@ $ git clone https://github.com/meliketoy/Torch-Tutorial.git
 $ luarocks install cutorch
 $ luarocks install xlua
 $ luarocks install optnet
+
+# Install itorch notebook (Ubuntu)
+$ sudo apt-get install libzmq3-dev libssl-dev python-zmq
+$ git clone https://github.com/facebook/iTorch.git
+$ cd iTorch
+$ luarocks make
 ```
