@@ -23,10 +23,12 @@ See the [server instruction](SERVER.md) for server setup.
 # Contents
 - [Linear Regression](./01-LinearRegression/LinearRegression.ipynb)
 - [Logistic Regression]()
-- [Feedforward Neural Network]()
-- [Convolutional Neural Network]()
+- [Feedforward Neural Network](./03-FFNN/FFNN.ipynb)
+- [Convolutional Neural Network - mnist](./04-CNN/CNN_mnist.ipynb)
+- [Convolutional Neural Network - cifar10](./04-CNN/CNN_cifar10.ipynb)
 - [Recurrent Neural Network]()
 - [Fine-tuning pre-trained models]()
+- [Wide-Residual-Networks, Best CNN results]()
 - [Basic GAN]()
 
 # Getting Started
