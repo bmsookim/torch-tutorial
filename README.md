@@ -6,6 +6,8 @@ Torch is a scientific computing framework based on Lua[JIT] with strong CPU and 
 
 This repository will handle basic Torch implementations of FFNN(Feed Forward Neural Network), CNN(Convolutional Neural Network), RNN(Recurrent Neural Network), and fine-tuning pre-trained models from scratch.
 
+![alt_tag](Torch/logo.png)
+
 # Environments
 This tutorial is based on
 - One Titan-X(Pascal) local setting for single-GPU handling
